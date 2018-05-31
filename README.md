@@ -1,0 +1,2 @@
+# ngawur
+cuma ngawur sajah
